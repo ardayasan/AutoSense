@@ -8,7 +8,7 @@ AutoSense AI, RAG (Retrieval-Augmented Generation) teknolojisi ile güçlendiril
 
 ---
 
-## 🚀 Features / Özellikler
+## Features / Özellikler
 
 ### English
 - **Offline RAG Architecture:** Runs entirely on a local LLM (TinyLlama-1.1B), ensuring full privacy and zero API costs.
@@ -24,7 +24,7 @@ AutoSense AI, RAG (Retrieval-Augmented Generation) teknolojisi ile güçlendiril
 
 ---
 
-## 🛠️ Technology Stack / Teknoloji Yığını
+## Technology Stack / Teknoloji Yığını
 
 - **Frontend:**
   - Next.js 14 (App Router)
@@ -87,7 +87,7 @@ Kullanıcı bir soru sorduğunda:
 
 ---
 
-## 🚀 Setup / Kurulum
+## Setup / Kurulum
 
 ### Backend
 ```bash
