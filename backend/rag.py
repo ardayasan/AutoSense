@@ -24,7 +24,7 @@ def get_llm():
             model="TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF",
             model_file="tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf",
             model_type="llama",
-            config={'max_new_tokens': 1024, 'temperature': 0.1, 'context_length': 2048, 'repetition_penalty': 1.1}
+            config={'max_new_tokens': 512, 'temperature': 0.1, 'context_length': 2048, 'repetition_penalty': 1.1}
         )
 
 def get_retriever():
