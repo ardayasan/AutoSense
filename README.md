@@ -24,7 +24,7 @@ AutoSense AI, RAG (Retrieval-Augmented Generation) teknolojisi ile güçlendiril
 
 ---
 
-## 🛠️ Technology Stack / Teknoloji Yığını
+## Technology Stack / Teknoloji Yığını
 
 - **Frontend:**
   - Next.js 14 (App Router)
